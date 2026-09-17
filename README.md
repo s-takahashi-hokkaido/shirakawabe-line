@@ -75,6 +75,7 @@ LINEの役割は「**一度接点を持った人を、選挙まで離さない**
 | [docs/roadmap.md](docs/roadmap.md) | フェーズ計画と機能一覧 |
 | [docs/operations.md](docs/operations.md) | 運用体制・役割分担 |
 | [docs/hearing.md](docs/hearing.md) | 本人ヒアリングシート |
+| [docs/profile.md](docs/profile.md) | 本人プロフィール・政策素材（リーフレット文字起こし） |
 | [docs/decisions.md](docs/decisions.md) | 決定事項と未確定事項（TBD） |
 
 ---
